@@ -1,2 +1,2 @@
-# blogPicture
+# BlogPicture
 Own private drawing bed
